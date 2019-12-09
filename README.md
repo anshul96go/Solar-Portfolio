@@ -14,3 +14,5 @@ Contains report of the following projects:
   
 3. Reading work on Technology of Solar Panels, Solar Panel cleaning impacts and multitude of papers on estimation especially in regions of Spain. 
    (Research papers not given)
+
+4. Resume: My latest 1 page resume
